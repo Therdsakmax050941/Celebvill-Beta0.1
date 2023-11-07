@@ -1,0 +1,68 @@
+{
+  "name": "reyzi-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@popperjs/core": "^2.11.8",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "antd": "^4.24.13",
+    "array-sort": "^1.0.0",
+    "axios": "^0.24.0",
+    "bootstrap-daterangepicker": "^3.1.0",
+    "chart.js": "^3.9.1",
+    "date-fns": "^2.30.0",
+    "dayjs": "^1.11.9",
+    "idle-timer-manager": "0.0.5",
+    "jquery": "^3.7.0",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "multiselect-react-dropdown": "^2.0.25",
+    "popper.js": "^1.16.1",
+    "react": "^16.14.0",
+    "react-bootstrap-daterangepicker": "^7.0.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-date-range": "^1.4.0",
+    "react-dom": "^16.14.0",
+    "react-dropzone": "^11.7.1",
+    "react-editext": "^4.2.1",
+    "react-js-pagination": "^3.0.3",
+    "react-lottie": "^1.2.3",
+    "react-redux": "^7.2.9",
+    "react-router-dom": "^5.3.4",
+    "react-scripts": "5.0.0",
+    "react-toastify": "^8.2.0",
+    "redux": "^4.2.1",
+    "redux-thunk": "^2.4.2",
+    "sweetalert": "^2.1.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
