@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530669667965",
+    "project_id": "celebvill-android",
+    "storage_bucket": "celebvill-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530669667965:android:806c57ee45966336791314",
+        "android_client_info": {
+          "package_name": "com.example.rayzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530669667965-t5ib11cbcoaefllgoodae35lvb0mle1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rayzi",
+            "certificate_hash": "729f1a1ce746630bec54bde9f5b00149b8208ca1"
+          }
+        },
+        {
+          "client_id": "530669667965-2pdh3ck28f93di51r8f607mgqvmjq5ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfv3g9mhG7myVTVxhjaopx2CY3aF7qaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530669667965-2pdh3ck28f93di51r8f607mgqvmjq5ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
